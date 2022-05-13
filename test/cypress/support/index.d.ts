@@ -2,7 +2,11 @@
 // load type definitions that come with Cypress module
 /// <reference types="cypress" />
 
+<<<<<<< HEAD
+import type {EditorConfig, OutputData} from './../../../types/index';
+=======
 import type { EditorConfig, OutputData } from './../../../types/index';
+>>>>>>> next
 import type EditorJS from '../../../types/index'
 
 declare global {
